@@ -1,0 +1,1 @@
+This will be my first complete web page build since starting The Odin Project. It's a landing page.
