@@ -4,11 +4,8 @@ body {
     flex-direction: column;
 
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
 }
-
-/* * {
-    border: 1px red solid;
-} */
 
 img {
     
@@ -30,7 +27,6 @@ img {
 .header .logo {
     font-size: 24px;
     color: #f9faf8;
-    
 
 }
 
@@ -111,7 +107,6 @@ img {
 
     padding: 30px;
 
-    border: 1px red solid;
 }
 
 .info-title {
@@ -242,6 +237,16 @@ img {
     color: #e5e7eb;
     background-color: #3882f6;
     
+}
+
+.footer {
+    background-color: #1f2937;
+    padding: 50px 0px;
+
+    text-align: center;
+    font-size: 16px;
+    color: #e5e7e5;
+
 }
 
 
