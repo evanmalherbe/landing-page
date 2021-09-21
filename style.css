@@ -105,5 +105,47 @@ img {
 
 }
 
+.info-section {
+    display: flex;
+    flex-direction: column;
+
+    padding: 30px;
+}
+
+.info-title {
+    text-align: center;
+    padding: 20px;
+
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+
+}
+
+.info-items {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 15px;
+
+}
+
+.item {
+    width: 160px;
+
+}
+
+.item img {
+    width: 150px;
+    border-radius: 8px;
+    border: solid 3px #3882f6; 
+     
+}
+
+.item p {
+    text-align: center;
+    font-size: 18px;
+    color: darkslategrey;
+}
 
 
