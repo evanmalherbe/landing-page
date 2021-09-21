@@ -148,4 +148,36 @@ img {
     color: darkslategrey;
 }
 
+.quote-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    padding: 100px 0px;
+
+    background-color: #e5e7eb;
+}
+
+.quote-section {
+    
+    display: flex;
+    flex-direction: column;
+        
+    width: 800px;
+   
+
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+
+}
+
+.quote-sig {
+    text-align: end;
+
+}
 
